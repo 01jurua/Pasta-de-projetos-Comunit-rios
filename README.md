@@ -1,4 +1,4 @@
-# Pasta-de-projetos-Comunit-rios
+# Pasta-de-projetos-Comunitários
 #{inclused<Project Fogo 0º Grau}
 inst main(Campanha:Torneio de boliche saúde cardiovascular)
 {int numero=10}
